@@ -23,7 +23,7 @@ a:hover {
 
 /* Section Styles */
 
-.main-nav {
+nav {
   width: 100%;
   background: #474546;
   min-height: 30px;
@@ -108,7 +108,7 @@ header .other-header {
   background-color: #474546;
   color: #17e3ff;
 }
-.card {
+article {
   margin: 30px;
   padding: 20px 40px 40px;
   max-width: 500px;
